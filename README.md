@@ -6,7 +6,7 @@
   
 ### Quem sou eu?
 </div>
-<p align="justify">Tenho 20 anos e atualmente sou estudante de Engenharia de Computação, minha entrada no mundo da programação ocorreu no início de 2023 através de um curso técnico em Desenvolvimento de Sistemas, onde logo nas primeiras semanas já senti que aquilo seria o meu futuro. E quanto mais eu explorava os códigos, mais ideias iam vindo na cabeça, desde a criação de sites sobre assuntos que eu gostava, até aplicativos que solucionavam algum pequeno problema. Então em questão de meses eu já havia decidido me tornar um desenvolvedor Front End.</p>
+<p align="justify">Tenho 20 anos e atualmente sou estudante de Engenharia da Computação, minha entrada no mundo da programação ocorreu no início de 2023 através de um curso técnico em Desenvolvimento de Sistemas, onde logo nas primeiras semanas já senti que aquilo seria o meu futuro. E quanto mais eu explorava os códigos, mais ideias iam vindo na cabeça, desde a criação de sites sobre assuntos que eu gostava, até aplicativos que solucionavam algum pequeno problema. Então em questão de meses eu já havia decidido me tornar um desenvolvedor Front End.</p>
 
 ----
 
